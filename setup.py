@@ -3,7 +3,7 @@
 # Author: Forest Bond
 # This file is in the public domain.
 
-import os, sys, commands
+import os, sys
 from distutils.core import Extension
 
 
